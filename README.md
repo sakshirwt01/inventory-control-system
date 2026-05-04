@@ -46,7 +46,7 @@ inventory-control-system/
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/inventory-control-system.git
+git clone https://github.com/sakshirwt01/inventory-control-system.git
 ```
 
 2. Navigate to project folder:
